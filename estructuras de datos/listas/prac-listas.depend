@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729442174 source:c:\users\admin\desktop\uni\1er año\pogramaciÓn i\15-10-24\estructuras de datos\listas\usolista.c
+	<stdio.h>
+	<Windows.h>
+	<conio.h>
+	"lista.h"
+
+1729363656 c:\users\admin\desktop\uni\1er año\pogramaciÓn i\15-10-24\estructuras de datos\listas\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

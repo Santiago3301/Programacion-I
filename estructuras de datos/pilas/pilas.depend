@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1729004229 source:c:\users\usuario\desktop\prog1 santi\estructuras de datos\pilas\pilaint.c
+	<stdio.h>
+	"pila.h"
+
+1729004195 c:\users\usuario\desktop\prog1 santi\estructuras de datos\pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1729004288 source:c:\users\admin\desktop\uni\1er año\pogramaciÓn i\15-10-24\estructuras de datos\pilas\pilaint.c
+	<stdio.h>
+	"pila.h"
+
+1729004195 c:\users\admin\desktop\uni\1er año\pogramaciÓn i\15-10-24\estructuras de datos\pilas\pila.h
+	<stdio.h>
+	<malloc.h>
+
